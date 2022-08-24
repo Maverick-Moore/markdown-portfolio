@@ -1,3 +1,1 @@
-my dog
-your dog
-a random dog
+-item - my dog - your dog - a random dog
